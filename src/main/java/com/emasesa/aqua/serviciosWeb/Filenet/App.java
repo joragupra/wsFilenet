@@ -3,11 +3,6 @@ package com.emasesa.aqua.serviciosWeb.Filenet;
 import java.rmi.RemoteException;
 
 import org.apache.axis2.AxisFault;
-import org.apache.axis2.client.Options;
-
-import com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub;
-import com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage;
-import com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest;
 
 /**
  * Hello world!
@@ -16,10 +11,17 @@ import com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServic
 public class App {
 	public static void main(String[] args) {
 		System.out.println("Iniciando secuencia de llamadas a WS de Filenet");
+		System.out.println("Cliente sin opciones en su generacion");
+		consultaConClienteSinOpciones();
+		System.out.println("Cliente con opcion osv en su generacion");
+		consultaConClienteConOsv();
+		System.out.println("Fin");
+	}
+	
+	private static void consultaConClienteSinOpciones(){
 		try {
-			ComponenteWSWSDLClonadoServiceStub clienteServicioFilenet = new ComponenteWSWSDLClonadoServiceStub("https://10.1.125.251:19005/ComponenteWSWSDLClonadoService/ComponenteWSWSDLClonadoPort");
-			Options opts = clienteServicioFilenet._getServiceClient().getOptions();
-			ObtenerSeriesRequest peticion = new ObtenerSeriesRequest();
+			com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub clienteServicioFilenet = new com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub("https://10.1.125.251:19005/ComponenteWSWSDLClonadoService/ComponenteWSWSDLClonadoPort");
+			com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest peticion = new com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest();
 			peticion.setNombreGrupo("RED");
 			clienteServicioFilenet.obtenerSeries(peticion);
 		} catch (AxisFault e) {
@@ -28,10 +30,27 @@ public class App {
 		} catch (RemoteException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		} catch (FaultMessage e) {
+		} catch (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.out.println("Fin");
+	}
+	
+	private static void consultaConClienteConOsv(){
+		try {
+			com.emasesa.aqua.serviciosWeb.FilenetEosv.ComponenteWSWSDLClonadoServiceStub clienteServicioFilenet = new com.emasesa.aqua.serviciosWeb.FilenetEosv.ComponenteWSWSDLClonadoServiceStub("https://10.1.125.251:19005/ComponenteWSWSDLClonadoService/ComponenteWSWSDLClonadoPort");
+			com.emasesa.aqua.serviciosWeb.FilenetEosv.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest peticion = new com.emasesa.aqua.serviciosWeb.FilenetEosv.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest();
+			peticion.setNombreGrupo("RED");
+			clienteServicioFilenet.obtenerSeries(peticion);
+		} catch (AxisFault e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (RemoteException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (com.emasesa.aqua.serviciosWeb.FilenetEosv.FaultMessage e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 }
