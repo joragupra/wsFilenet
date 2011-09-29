@@ -5,7 +5,7 @@
  * This file was auto-generated from WSDL
  * by the Apache Axis2 version: 1.4.1  Built on : Aug 13, 2008 (05:03:35 LKT)
  */
-        package com.emasesa.aqua.serviciosWeb.Filenet;
+        package com.emasesa.aqua.serviciosWeb.FilenetNoOpts;
 
         
 
@@ -267,77 +267,77 @@
     //populates the faults
     private void populateFaults(){
          
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
-              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage");
-              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub$FaultElement");
+              faultExceptionNameMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultExceptionClassNameMap.put(new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage");
+              faultMessageMap.put( new javax.xml.namespace.QName("http://j2ee.netbeans.org/wsdl/BPELComponenteWSWSDL/ComponenteWSWSDLClonado","FaultElement"),"com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub$FaultElement");
            
 
 
@@ -407,23 +407,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#insertarDocumento
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#insertarDocumento
                      * @param insertarDocumentoRequest0
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse insertarDocumento(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse insertarDocumento(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest insertarDocumentoRequest0)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest insertarDocumentoRequest0)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[0].getName());
@@ -468,11 +468,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -493,8 +493,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -532,15 +532,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startinsertarDocumento
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startinsertarDocumento
                     * @param insertarDocumentoRequest0
                 
                 */
                 public  void startinsertarDocumento(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest insertarDocumentoRequest0,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest insertarDocumentoRequest0,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -583,10 +583,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultinsertarDocumento(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorinsertarDocumento(e);
@@ -613,8 +613,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorinsertarDocumento((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorinsertarDocumento((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -683,23 +683,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#buscarDocumentos
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#buscarDocumentos
                      * @param buscarDocumentosRequest2
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse buscarDocumentos(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse buscarDocumentos(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest buscarDocumentosRequest2)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest buscarDocumentosRequest2)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[1].getName());
@@ -744,11 +744,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -769,8 +769,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -808,15 +808,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startbuscarDocumentos
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startbuscarDocumentos
                     * @param buscarDocumentosRequest2
                 
                 */
                 public  void startbuscarDocumentos(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest buscarDocumentosRequest2,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest buscarDocumentosRequest2,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -859,10 +859,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultbuscarDocumentos(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorbuscarDocumentos(e);
@@ -889,8 +889,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorbuscarDocumentos((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorbuscarDocumentos((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -959,23 +959,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#moverPiezaAExpediente
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#moverPiezaAExpediente
                      * @param moverPiezaAExpedienteRequest4
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse moverPiezaAExpediente(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse moverPiezaAExpediente(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest moverPiezaAExpedienteRequest4)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest moverPiezaAExpedienteRequest4)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[2].getName());
@@ -1020,11 +1020,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -1045,8 +1045,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -1084,15 +1084,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startmoverPiezaAExpediente
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startmoverPiezaAExpediente
                     * @param moverPiezaAExpedienteRequest4
                 
                 */
                 public  void startmoverPiezaAExpediente(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest moverPiezaAExpedienteRequest4,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest moverPiezaAExpedienteRequest4,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -1135,10 +1135,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultmoverPiezaAExpediente(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrormoverPiezaAExpediente(e);
@@ -1165,8 +1165,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrormoverPiezaAExpediente((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrormoverPiezaAExpediente((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -1235,23 +1235,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#obtenerSeries
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#obtenerSeries
                      * @param obtenerSeriesRequest6
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse obtenerSeries(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse obtenerSeries(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest obtenerSeriesRequest6)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest obtenerSeriesRequest6)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[3].getName());
@@ -1296,11 +1296,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -1321,8 +1321,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -1360,15 +1360,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startobtenerSeries
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startobtenerSeries
                     * @param obtenerSeriesRequest6
                 
                 */
                 public  void startobtenerSeries(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest obtenerSeriesRequest6,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest obtenerSeriesRequest6,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -1411,10 +1411,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultobtenerSeries(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorobtenerSeries(e);
@@ -1441,8 +1441,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorobtenerSeries((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorobtenerSeries((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -1511,23 +1511,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#buscarElementos
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#buscarElementos
                      * @param buscarElementosRequest8
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse buscarElementos(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse buscarElementos(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest buscarElementosRequest8)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest buscarElementosRequest8)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[4].getName());
@@ -1572,11 +1572,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -1597,8 +1597,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -1636,15 +1636,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startbuscarElementos
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startbuscarElementos
                     * @param buscarElementosRequest8
                 
                 */
                 public  void startbuscarElementos(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest buscarElementosRequest8,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest buscarElementosRequest8,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -1687,10 +1687,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultbuscarElementos(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorbuscarElementos(e);
@@ -1717,8 +1717,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorbuscarElementos((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorbuscarElementos((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -1787,23 +1787,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#crearExpedienteOrigen
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#crearExpedienteOrigen
                      * @param crearExpedienteOrigenRequest10
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse crearExpedienteOrigen(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse crearExpedienteOrigen(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest crearExpedienteOrigenRequest10)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest crearExpedienteOrigenRequest10)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[5].getName());
@@ -1848,11 +1848,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -1873,8 +1873,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -1912,15 +1912,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startcrearExpedienteOrigen
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startcrearExpedienteOrigen
                     * @param crearExpedienteOrigenRequest10
                 
                 */
                 public  void startcrearExpedienteOrigen(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest crearExpedienteOrigenRequest10,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest crearExpedienteOrigenRequest10,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -1963,10 +1963,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultcrearExpedienteOrigen(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorcrearExpedienteOrigen(e);
@@ -1993,8 +1993,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorcrearExpedienteOrigen((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorcrearExpedienteOrigen((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -2063,23 +2063,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#insertarExpediente
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#insertarExpediente
                      * @param insertarExpedienteRequest12
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse insertarExpediente(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse insertarExpediente(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest insertarExpedienteRequest12)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest insertarExpedienteRequest12)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[6].getName());
@@ -2124,11 +2124,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -2149,8 +2149,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -2188,15 +2188,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startinsertarExpediente
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startinsertarExpediente
                     * @param insertarExpedienteRequest12
                 
                 */
                 public  void startinsertarExpediente(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest insertarExpedienteRequest12,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest insertarExpedienteRequest12,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -2239,10 +2239,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultinsertarExpediente(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorinsertarExpediente(e);
@@ -2269,8 +2269,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorinsertarExpediente((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorinsertarExpediente((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -2339,23 +2339,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#crearDocumentoOrigen
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#crearDocumentoOrigen
                      * @param crearDocumentoOrigenRequest14
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse crearDocumentoOrigen(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse crearDocumentoOrigen(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest crearDocumentoOrigenRequest14)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest crearDocumentoOrigenRequest14)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[7].getName());
@@ -2400,11 +2400,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -2425,8 +2425,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -2464,15 +2464,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startcrearDocumentoOrigen
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startcrearDocumentoOrigen
                     * @param crearDocumentoOrigenRequest14
                 
                 */
                 public  void startcrearDocumentoOrigen(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest crearDocumentoOrigenRequest14,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest crearDocumentoOrigenRequest14,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -2515,10 +2515,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultcrearDocumentoOrigen(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorcrearDocumentoOrigen(e);
@@ -2545,8 +2545,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorcrearDocumentoOrigen((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorcrearDocumentoOrigen((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -2615,23 +2615,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#borrar
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#borrar
                      * @param borrarRequest16
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarResponse borrar(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarResponse borrar(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarRequest borrarRequest16)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarRequest borrarRequest16)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[8].getName());
@@ -2676,11 +2676,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -2701,8 +2701,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -2740,15 +2740,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startborrar
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startborrar
                     * @param borrarRequest16
                 
                 */
                 public  void startborrar(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarRequest borrarRequest16,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarRequest borrarRequest16,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -2791,10 +2791,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultborrar(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorborrar(e);
@@ -2821,8 +2821,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorborrar((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorborrar((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -2891,23 +2891,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#obtenerInformacionElemento
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#obtenerInformacionElemento
                      * @param obtenerInformacionElementoRequest18
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse obtenerInformacionElemento(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse obtenerInformacionElemento(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest obtenerInformacionElementoRequest18)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest obtenerInformacionElementoRequest18)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[9].getName());
@@ -2952,11 +2952,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -2977,8 +2977,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -3016,15 +3016,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startobtenerInformacionElemento
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startobtenerInformacionElemento
                     * @param obtenerInformacionElementoRequest18
                 
                 */
                 public  void startobtenerInformacionElemento(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest obtenerInformacionElementoRequest18,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest obtenerInformacionElementoRequest18,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -3067,10 +3067,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultobtenerInformacionElemento(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorobtenerInformacionElemento(e);
@@ -3097,8 +3097,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorobtenerInformacionElemento((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorobtenerInformacionElemento((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -3167,23 +3167,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#obtenerElemento
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#obtenerElemento
                      * @param obtenerElementoRequest20
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse obtenerElemento(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse obtenerElemento(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest obtenerElementoRequest20)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest obtenerElementoRequest20)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[10].getName());
@@ -3228,11 +3228,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -3253,8 +3253,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -3292,15 +3292,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startobtenerElemento
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startobtenerElemento
                     * @param obtenerElementoRequest20
                 
                 */
                 public  void startobtenerElemento(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest obtenerElementoRequest20,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest obtenerElementoRequest20,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -3343,10 +3343,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultobtenerElemento(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorobtenerElemento(e);
@@ -3373,8 +3373,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorobtenerElemento((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorobtenerElemento((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -3443,23 +3443,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#insertarPieza
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#insertarPieza
                      * @param insertarPiezaRequest22
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse insertarPieza(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse insertarPieza(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest insertarPiezaRequest22)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest insertarPiezaRequest22)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[11].getName());
@@ -3504,11 +3504,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -3529,8 +3529,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -3568,15 +3568,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startinsertarPieza
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startinsertarPieza
                     * @param insertarPiezaRequest22
                 
                 */
                 public  void startinsertarPieza(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest insertarPiezaRequest22,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest insertarPiezaRequest22,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -3619,10 +3619,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultinsertarPieza(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorinsertarPieza(e);
@@ -3649,8 +3649,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorinsertarPieza((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorinsertarPieza((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -3719,23 +3719,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#actualizar
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#actualizar
                      * @param actualizarRequest24
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse actualizar(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse actualizar(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest actualizarRequest24)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest actualizarRequest24)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[12].getName());
@@ -3780,11 +3780,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -3805,8 +3805,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -3844,15 +3844,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startactualizar
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startactualizar
                     * @param actualizarRequest24
                 
                 */
                 public  void startactualizar(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest actualizarRequest24,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest actualizarRequest24,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -3895,10 +3895,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultactualizar(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErroractualizar(e);
@@ -3925,8 +3925,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErroractualizar((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErroractualizar((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -3995,23 +3995,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#actualizarDocumento
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#actualizarDocumento
                      * @param actualizarDocumentoRequest26
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse actualizarDocumento(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse actualizarDocumento(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest actualizarDocumentoRequest26)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest actualizarDocumentoRequest26)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[13].getName());
@@ -4056,11 +4056,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -4081,8 +4081,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -4120,15 +4120,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startactualizarDocumento
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startactualizarDocumento
                     * @param actualizarDocumentoRequest26
                 
                 */
                 public  void startactualizarDocumento(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest actualizarDocumentoRequest26,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest actualizarDocumentoRequest26,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -4171,10 +4171,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultactualizarDocumento(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErroractualizarDocumento(e);
@@ -4201,8 +4201,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErroractualizarDocumento((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErroractualizarDocumento((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -4271,23 +4271,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#moverDocumentoAPieza
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#moverDocumentoAPieza
                      * @param moverDocumentoAPiezaRequest28
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse moverDocumentoAPieza(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse moverDocumentoAPieza(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest moverDocumentoAPiezaRequest28)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest moverDocumentoAPiezaRequest28)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[14].getName());
@@ -4332,11 +4332,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -4357,8 +4357,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -4396,15 +4396,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startmoverDocumentoAPieza
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startmoverDocumentoAPieza
                     * @param moverDocumentoAPiezaRequest28
                 
                 */
                 public  void startmoverDocumentoAPieza(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest moverDocumentoAPiezaRequest28,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest moverDocumentoAPiezaRequest28,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -4447,10 +4447,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultmoverDocumentoAPieza(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrormoverDocumentoAPieza(e);
@@ -4477,8 +4477,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrormoverDocumentoAPieza((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrormoverDocumentoAPieza((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -4547,23 +4547,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#crearDocumentoBusqueda
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#crearDocumentoBusqueda
                      * @param crearDocumentoBusquedaRequest30
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse crearDocumentoBusqueda(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse crearDocumentoBusqueda(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest crearDocumentoBusquedaRequest30)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest crearDocumentoBusquedaRequest30)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[15].getName());
@@ -4608,11 +4608,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -4633,8 +4633,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -4672,15 +4672,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startcrearDocumentoBusqueda
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startcrearDocumentoBusqueda
                     * @param crearDocumentoBusquedaRequest30
                 
                 */
                 public  void startcrearDocumentoBusqueda(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest crearDocumentoBusquedaRequest30,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest crearDocumentoBusquedaRequest30,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -4723,10 +4723,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultcrearDocumentoBusqueda(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorcrearDocumentoBusqueda(e);
@@ -4753,8 +4753,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorcrearDocumentoBusqueda((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorcrearDocumentoBusqueda((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -4823,23 +4823,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#obtenerPaginaSiguiente
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#obtenerPaginaSiguiente
                      * @param obtenerPaginaSiguienteRequest32
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse obtenerPaginaSiguiente(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse obtenerPaginaSiguiente(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest obtenerPaginaSiguienteRequest32)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest obtenerPaginaSiguienteRequest32)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[16].getName());
@@ -4884,11 +4884,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -4909,8 +4909,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -4948,15 +4948,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startobtenerPaginaSiguiente
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startobtenerPaginaSiguiente
                     * @param obtenerPaginaSiguienteRequest32
                 
                 */
                 public  void startobtenerPaginaSiguiente(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest obtenerPaginaSiguienteRequest32,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest obtenerPaginaSiguienteRequest32,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -4999,10 +4999,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultobtenerPaginaSiguiente(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorobtenerPaginaSiguiente(e);
@@ -5029,8 +5029,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorobtenerPaginaSiguiente((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorobtenerPaginaSiguiente((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -5099,23 +5099,23 @@
                     /**
                      * Auto generated method signature
                      * 
-                     * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#obtenerPaginaAnterior
+                     * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#obtenerPaginaAnterior
                      * @param obtenerPaginaAnteriorRequest34
                     
-                     * @throws com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage : 
+                     * @throws com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage : 
                      */
 
                     
 
-                            public  com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse obtenerPaginaAnterior(
+                            public  com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse obtenerPaginaAnterior(
 
-                            com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest obtenerPaginaAnteriorRequest34)
+                            com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest obtenerPaginaAnteriorRequest34)
                         
 
                     throws java.rmi.RemoteException
                     
                     
-                        ,com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage{
+                        ,com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage{
               org.apache.axis2.context.MessageContext _messageContext = null;
               try{
                org.apache.axis2.client.OperationClient _operationClient = _serviceClient.createClient(_operations[17].getName());
@@ -5160,11 +5160,11 @@
                 
                                 java.lang.Object object = fromOM(
                                              _returnEnv.getBody().getFirstElement() ,
-                                             com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse.class,
+                                             com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse.class,
                                               getEnvelopeNamespaces(_returnEnv));
 
                                
-                                        return (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse)object;
+                                        return (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse)object;
                                    
          }catch(org.apache.axis2.AxisFault f){
 
@@ -5185,8 +5185,8 @@
                                    new java.lang.Class[]{messageClass});
                         m.invoke(ex,new java.lang.Object[]{messageObject});
                         
-                        if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-                          throw (com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex;
+                        if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+                          throw (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex;
                         }
                         
 
@@ -5224,15 +5224,15 @@
                 /**
                 * Auto generated method signature for Asynchronous Invocations
                 * 
-                * @see com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoService#startobtenerPaginaAnterior
+                * @see com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoService#startobtenerPaginaAnterior
                     * @param obtenerPaginaAnteriorRequest34
                 
                 */
                 public  void startobtenerPaginaAnterior(
 
-                 com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest obtenerPaginaAnteriorRequest34,
+                 com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest obtenerPaginaAnteriorRequest34,
 
-                  final com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
+                  final com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceCallbackHandler callback)
 
                 throws java.rmi.RemoteException{
 
@@ -5275,10 +5275,10 @@
                                 org.apache.axiom.soap.SOAPEnvelope resultEnv = resultContext.getEnvelope();
                                 
                                         java.lang.Object object = fromOM(resultEnv.getBody().getFirstElement(),
-                                                                         com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse.class,
+                                                                         com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse.class,
                                                                          getEnvelopeNamespaces(resultEnv));
                                         callback.receiveResultobtenerPaginaAnterior(
-                                        (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse)object);
+                                        (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse)object);
                                         
                             } catch (org.apache.axis2.AxisFault e) {
                                 callback.receiveErrorobtenerPaginaAnterior(e);
@@ -5305,8 +5305,8 @@
 															new java.lang.Class[]{messageClass});
 													m.invoke(ex,new java.lang.Object[]{messageObject});
 													
-													if (ex instanceof com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage){
-														callback.receiveErrorobtenerPaginaAnterior((com.emasesa.aqua.serviciosWeb.Filenet.FaultMessage)ex);
+													if (ex instanceof com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage){
+														callback.receiveErrorobtenerPaginaAnterior((com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage)ex);
 											            return;
 										            }
 										            
@@ -49325,12 +49325,12 @@
         }
            
           
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49339,12 +49339,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49353,12 +49353,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49367,12 +49367,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49381,12 +49381,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49395,12 +49395,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49409,12 +49409,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49423,12 +49423,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49437,12 +49437,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49451,12 +49451,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49465,12 +49465,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49479,12 +49479,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49493,12 +49493,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49507,12 +49507,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49521,12 +49521,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49535,12 +49535,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49549,12 +49549,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49563,12 +49563,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49577,12 +49577,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49591,12 +49591,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49605,12 +49605,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49619,12 +49619,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49633,12 +49633,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49647,12 +49647,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49661,12 +49661,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49675,12 +49675,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49689,12 +49689,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49703,12 +49703,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49717,12 +49717,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49731,12 +49731,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49745,12 +49745,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49759,12 +49759,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49773,12 +49773,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49787,12 +49787,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49801,12 +49801,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49815,12 +49815,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49829,12 +49829,12 @@
 
             }
         
-            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse param, boolean optimizeContent)
+            private  org.apache.axiom.om.OMElement  toOM(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse param, boolean optimizeContent)
             throws org.apache.axis2.AxisFault {
 
             
                         try{
-                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse.MY_QNAME,
+                             return param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse.MY_QNAME,
                                           org.apache.axiom.om.OMAbstractFactory.getOMFactory());
                         } catch(org.apache.axis2.databinding.ADBException e){
                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49844,14 +49844,14 @@
             }
         
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49865,14 +49865,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49886,14 +49886,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49907,14 +49907,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49928,14 +49928,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49949,14 +49949,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49970,14 +49970,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -49991,14 +49991,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -50012,14 +50012,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -50033,14 +50033,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -50054,14 +50054,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -50075,14 +50075,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -50096,14 +50096,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -50117,14 +50117,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -50138,14 +50138,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -50159,14 +50159,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -50180,14 +50180,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -50201,14 +50201,14 @@
 
                              
                                     
-                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest param, boolean optimizeContent)
+                                        private  org.apache.axiom.soap.SOAPEnvelope toEnvelope(org.apache.axiom.soap.SOAPFactory factory, com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest param, boolean optimizeContent)
                                         throws org.apache.axis2.AxisFault{
 
                                              
                                                     try{
 
                                                             org.apache.axiom.soap.SOAPEnvelope emptyEnvelope = factory.getDefaultEnvelope();
-                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest.MY_QNAME,factory));
+                                                            emptyEnvelope.getBody().addChild(param.getOMElement(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest.MY_QNAME,factory));
                                                             return emptyEnvelope;
                                                         } catch(org.apache.axis2.databinding.ADBException e){
                                                             throw org.apache.axis2.AxisFault.makeFault(e);
@@ -50238,380 +50238,380 @@
 
         try {
         
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiguienteRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorRequest.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }
            
-                if (com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
+                if (com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.class.equals(type)){
                 
-                           return com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
+                           return com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement.Factory.parse(param.getXMLStreamReaderWithoutCaching());
                     
 
                 }

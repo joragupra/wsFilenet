@@ -6,7 +6,7 @@
  * by the Apache Axis2 version: 1.4.1  Built on : Aug 13, 2008 (05:03:35 LKT)
  */
 
-    package com.emasesa.aqua.serviciosWeb.Filenet;
+    package com.emasesa.aqua.serviciosWeb.FilenetNoOpts;
 
     /**
      *  ComponenteWSWSDLClonadoServiceCallbackHandler Callback class, Users can extend this class and implement
@@ -49,7 +49,7 @@
             * override this method for handling normal response from insertarDocumento operation
             */
            public void receiveResultinsertarDocumento(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarDocumentoResponse result
                         ) {
            }
 
@@ -65,7 +65,7 @@
             * override this method for handling normal response from buscarDocumentos operation
             */
            public void receiveResultbuscarDocumentos(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosResponse result
                         ) {
            }
 
@@ -81,7 +81,7 @@
             * override this method for handling normal response from moverPiezaAExpediente operation
             */
            public void receiveResultmoverPiezaAExpediente(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverPiezaAExpedienteResponse result
                         ) {
            }
 
@@ -97,7 +97,7 @@
             * override this method for handling normal response from obtenerSeries operation
             */
            public void receiveResultobtenerSeries(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesResponse result
                         ) {
            }
 
@@ -113,7 +113,7 @@
             * override this method for handling normal response from buscarElementos operation
             */
            public void receiveResultbuscarElementos(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BuscarElementosResponse result
                         ) {
            }
 
@@ -129,7 +129,7 @@
             * override this method for handling normal response from crearExpedienteOrigen operation
             */
            public void receiveResultcrearExpedienteOrigen(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearExpedienteOrigenResponse result
                         ) {
            }
 
@@ -145,7 +145,7 @@
             * override this method for handling normal response from insertarExpediente operation
             */
            public void receiveResultinsertarExpediente(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarExpedienteResponse result
                         ) {
            }
 
@@ -161,7 +161,7 @@
             * override this method for handling normal response from crearDocumentoOrigen operation
             */
            public void receiveResultcrearDocumentoOrigen(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoOrigenResponse result
                         ) {
            }
 
@@ -177,7 +177,7 @@
             * override this method for handling normal response from borrar operation
             */
            public void receiveResultborrar(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BorrarResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.BorrarResponse result
                         ) {
            }
 
@@ -193,7 +193,7 @@
             * override this method for handling normal response from obtenerInformacionElemento operation
             */
            public void receiveResultobtenerInformacionElemento(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerInformacionElementoResponse result
                         ) {
            }
 
@@ -209,7 +209,7 @@
             * override this method for handling normal response from obtenerElemento operation
             */
            public void receiveResultobtenerElemento(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerElementoResponse result
                         ) {
            }
 
@@ -225,7 +225,7 @@
             * override this method for handling normal response from insertarPieza operation
             */
            public void receiveResultinsertarPieza(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.InsertarPiezaResponse result
                         ) {
            }
 
@@ -241,7 +241,7 @@
             * override this method for handling normal response from actualizar operation
             */
            public void receiveResultactualizar(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarResponse result
                         ) {
            }
 
@@ -257,7 +257,7 @@
             * override this method for handling normal response from actualizarDocumento operation
             */
            public void receiveResultactualizarDocumento(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ActualizarDocumentoResponse result
                         ) {
            }
 
@@ -273,7 +273,7 @@
             * override this method for handling normal response from moverDocumentoAPieza operation
             */
            public void receiveResultmoverDocumentoAPieza(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.MoverDocumentoAPiezaResponse result
                         ) {
            }
 
@@ -289,7 +289,7 @@
             * override this method for handling normal response from crearDocumentoBusqueda operation
             */
            public void receiveResultcrearDocumentoBusqueda(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.CrearDocumentoBusquedaResponse result
                         ) {
            }
 
@@ -305,7 +305,7 @@
             * override this method for handling normal response from obtenerPaginaSiguiente operation
             */
            public void receiveResultobtenerPaginaSiguiente(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaSiquienteResponse result
                         ) {
            }
 
@@ -321,7 +321,7 @@
             * override this method for handling normal response from obtenerPaginaAnterior operation
             */
            public void receiveResultobtenerPaginaAnterior(
-                    com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse result
+                    com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerPaginaAnteriorResponse result
                         ) {
            }
 

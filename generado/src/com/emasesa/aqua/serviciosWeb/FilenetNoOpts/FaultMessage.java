@@ -6,11 +6,11 @@
  * by the Apache Axis2 version: 1.4.1  Built on : Aug 13, 2008 (05:03:35 LKT)
  */
 
-package com.emasesa.aqua.serviciosWeb.Filenet;
+package com.emasesa.aqua.serviciosWeb.FilenetNoOpts;
 
 public class FaultMessage extends java.lang.Exception{
     
-    private com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement faultMessage;
+    private com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement faultMessage;
     
     public FaultMessage() {
         super("FaultMessage");
@@ -24,11 +24,11 @@ public class FaultMessage extends java.lang.Exception{
       super(s, ex);
     }
     
-    public void setFaultMessage(com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement msg){
+    public void setFaultMessage(com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement msg){
        faultMessage = msg;
     }
     
-    public com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.FaultElement getFaultMessage(){
+    public com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.FaultElement getFaultMessage(){
        return faultMessage;
     }
 }

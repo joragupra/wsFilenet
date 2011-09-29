@@ -5,8 +5,9 @@ import java.rmi.RemoteException;
 import org.apache.axis2.AxisFault;
 import org.apache.axis2.client.Options;
 
-import com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest;
-import com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest;
+import com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub;
+import com.emasesa.aqua.serviciosWeb.FilenetNoOpts.FaultMessage;
+import com.emasesa.aqua.serviciosWeb.FilenetNoOpts.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest;
 
 /**
  * Hello world!
