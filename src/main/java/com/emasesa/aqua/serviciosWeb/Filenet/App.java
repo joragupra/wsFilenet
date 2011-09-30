@@ -4,9 +4,10 @@ import java.rmi.RemoteException;
 
 import org.apache.axis2.AxisFault;
 import org.apache.axis2.client.Options;
+import org.netbeans.xml.schema.esquemasecundario.ObtenerSeriesRequestDocument;
+import org.netbeans.xml.schema.esquemasecundario.impl.ObtenerElementoRequestDocumentImpl;
+import org.netbeans.xml.schema.esquemasecundario.impl.ObtenerSeriesRequestDocumentImpl;
 
-import com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.BuscarDocumentosRequest;
-import com.emasesa.aqua.serviciosWeb.Filenet.ComponenteWSWSDLClonadoServiceStub.ObtenerSeriesRequest;
 
 /**
  * Hello world!
@@ -18,7 +19,7 @@ public class App {
 		try {
 			ComponenteWSWSDLClonadoServiceStub clienteServicioFilenet = new ComponenteWSWSDLClonadoServiceStub("https://10.1.125.251:19005/ComponenteWSWSDLClonadoService/ComponenteWSWSDLClonadoPort");
 			Options opts = clienteServicioFilenet._getServiceClient().getOptions();
-			ObtenerSeriesRequest peticion = new ObtenerSeriesRequest();
+			ObtenerSeriesRequestDocument peticion = new ObtenerSeriesRequestDocumentImpl();
 			peticion.setNombreGrupo("RED");
 			clienteServicioFilenet.obtenerSeries(peticion);
 		} catch (AxisFault e) {
