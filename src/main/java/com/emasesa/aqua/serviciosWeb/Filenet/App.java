@@ -16,8 +16,7 @@ public class App {
 	public static void main(String[] args) {
 		System.out.println("Iniciando secuencia de llamadas a WS de Filenet");
 		try {
-			ComponenteWSWSDLClonadoServiceStub clienteServicioFilenet = new ComponenteWSWSDLClonadoServiceStub("https://10.1.125.251:19005/ComponenteWSWSDLClonadoService/ComponenteWSWSDLClonadoPort");
-			Options opts = clienteServicioFilenet._getServiceClient().getOptions();
+			ComponenteWSWSDLClonadoServiceStub clienteServicioFilenet = new ComponenteWSWSDLClonadoServiceStub("https://ares:19005/ComponenteWSWSDLClonadoService/ComponenteWSWSDLClonadoPort");
 			ObtenerSeriesRequest peticion = new ObtenerSeriesRequest();
 			peticion.setNombreGrupo("RED");
 			clienteServicioFilenet.obtenerSeries(peticion);
